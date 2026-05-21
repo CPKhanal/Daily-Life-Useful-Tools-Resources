@@ -65,6 +65,7 @@ A curated list of **websites, apps, and tools** that are helpful for learning, p
 - **[Meshy.ai](https://www.meshy.ai/)** – AI-powered tools for creative projects.  
 - **[Dream Machine by Luma Labs](https://lumalabs.ai/dream-machine)** – AI image generation tool.  
 - **[Krea.ai](https://www.krea.ai/)** – AI-assisted art and design platform.  
+- **[LandscapioAI](https://www.landscapioai.com/)** – AI landscape design generator for garden photos, outdoor layouts, planting ideas, and cost estimates.
 - **[Slow Roads](https://slowroads.io/)** – AI-powered route planner.  
 - **[Ztype](https://zty.pe/)** – AI-based text generation tool.  
 - **[UI Ball LDRs](https://uiball.com/ldrs/)** – AI-driven design components.
