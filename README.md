@@ -78,6 +78,7 @@ A curated list of **websites, apps, and tools** that are helpful for learning, p
 - **[Cineb](https://cineb.gg/)** – Movie streaming website.  
 - **[HDHub4U](https://hdhub4u.catering/)** – Download movies in HD quality.  
 - **[LostGamer](https://lostgamer.io/)** – Gaming news and content.
+- **[Elunvi Games](https://elunvi.fun/)** – Free browser games for two players sharing a keyboard or one player on a phone.
 
 ---
 
